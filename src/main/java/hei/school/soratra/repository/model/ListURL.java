@@ -8,6 +8,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class ListURL {
-    private String original_url;
-    private String transformed_url;
+  private String original_url;
+  private String transformed_url;
 }
